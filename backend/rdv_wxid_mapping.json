@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "scopes": {
+    "bb.eixed.com:29999": {
+      "12787fac": {
+        "wxid": "wxid_kqism2ws8r7s12",
+        "port": "30004",
+        "proxy": {
+          "Proxy_Type": "",
+          "Proxy_IP": "",
+          "Proxy_Port": "",
+          "Proxy_Usr": "",
+          "Proxy_Pwd": ""
+        }
+      }
+    }
+  }
+}
